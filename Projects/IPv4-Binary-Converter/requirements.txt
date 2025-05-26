@@ -1,0 +1,8 @@
+# IPv4 Decimal to Binary Converter
+# No external dependencies required - uses Python standard library only
+# Python 3.6+ recommended
+
+# This project demonstrates security principles through:
+# - Input validation and sanitization
+# - Error handling
+# - Modular code design

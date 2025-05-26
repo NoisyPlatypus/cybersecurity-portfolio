@@ -1,0 +1,46 @@
+Define a function to check input for validity:
+    IF the number of octets is not 4:
+        Return invalid
+    ELSE IF any octet is not a positive number:
+        Return invalid
+    ELSE IF any octet is greater than 255:
+        Return invalid
+    ELSE:
+        Return valid
+
+Define a function to convert to binary for a single octet:
+    Initialise an empty list binary_conversion
+        FOR each positional_value in (128, 64, 32, 16, 8, 4, 2, 1):
+            IF octet is greater than or equal to positional_value:
+                Add "1" to binary_conversion
+                Subtract positional_value from octet
+            ELSE:
+                Add "0" to binary_conversion
+    Join the elements of binary_conversion to form a string new_octet
+    Return new_octet
+
+
+Prompt the user for an IPv4 address
+
+Split the address into octets
+
+Call function to check input for validity
+
+IF invalid:
+    Prompt the user again (or exit)
+ELSE:
+    Continue
+
+FOR each octet in the IPv4 address:
+    Call Function Convert to Binary for that octet
+    Add the binary octet to a list
+
+Combine the list into a final binary address
+
+Display the binary IP address to the user
+
+Prompt the user if they want to convert another address:
+IF yes:
+    Repeat the process
+ELSE:
+    End
