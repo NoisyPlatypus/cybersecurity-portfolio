@@ -51,25 +51,35 @@ Thanks for using the converter. I hope you found it useful!
 ## 📸 Screenshots
 
 ### Successful Conversion
-![Successful IPv4 conversion](./screenshots/successful_conversion.png)
+![Successful IPv4 conversion](./Screenshots/successful_conversion.png)
+
 *Converting common private network addresses to their binary equivalents*
 
+
 ### Input Validation
-![Invalid input handling](./screenshots/invalid_input_handling.png)
+![Invalid input handling](./Screenshots/invalid_input_handling.png)
+
 *Robust error handling for invalid IPv4 formats - the program catches non-numeric values and continues gracefully*
 
+
 ### User-Friendly Exit Options
-![Quit functionality](./screenshots/quit_functionality.png)
+![Quit functionality](./Screenshots/quit_functionality.png)
+
 *Users can exit at any time by typing 'quit' or 'exit' - the program responds with a friendly farewell*
 
+
 ### Program Flow Control
-![Program flow demonstration](./screenshots/program_flow.png)
+![Program flow demonstration](./Screenshots/program_flow.png)
+
 *Clean start/stop flow - users can choose not to begin conversion or exit after completing conversions*
+
 
 ## 🔄 Program Logic
 
-![IPv4 Converter Flowchart](./documentation/program_flowchart.png)
+![IPv4 Converter Flowchart](./Documentation/program_flowchart.jpg)
+
 *Program flow diagram showing input validation, conversion logic, and user interaction loops*
+
 
 ## 📋 Input Validation
 
@@ -90,7 +100,7 @@ Invalid inputs receive helpful error messages:
 The application follows clean code principles with separated concerns:
 
 ```
-main.py          # Program entry point and user interaction
+main.py           # Program entry point and user interaction
 ├── validation.py # Input validation logic
 └── conversion.py # Binary conversion algorithm
 ```
@@ -104,11 +114,11 @@ IPv4-Binary-Converter/
 │   ├── main.py
 │   ├── conversion.py
 │   └── validation.py
-├── documentation/
+├── Documentation/
 │   ├── pseudocode.txt
 │   ├── user_documentation.pdf
-│   └── program_flowchart.png
-├── screenshots/
+│   └── program_flowchart.jpg
+├── Screenshots/
 │   ├── successful_conversion.png
 │   ├── invalid_input_handling.png
 │   ├── quit_functionality.png
@@ -161,9 +171,8 @@ IPv4-Binary-Converter/
 
 ## 📚 Documentation
 
-- [Pseudocode](./documentation/pseudocode.txt) - Detailed algorithm design
-- [User Documentation](./documentation/user_documentation.pdf) - End-user guide
-- [Program Flowchart](./documentation/program_flowchart.png) - Visual program flow
+- [User Documentation](./Documentation/user_documentation.pdf) - End-user guide
+- [Program Flowchart](./Documentation/program_flowchart.png) - Visual program flow
 
 ## 🔧 Requirements
 
