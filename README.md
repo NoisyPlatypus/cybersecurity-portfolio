@@ -31,24 +31,24 @@ Welcome! I'm Rebecca, a cybersecurity professional with a recently completed Cer
 
 ## 📚 Academic Reports
 
-### [Academic Coursework](./academic-reports/)
+### [Academic Coursework](./Academic-Reports/)
 Professional reports and assessments from Certificate IV studies demonstrating progression from foundational research to advanced practical cybersecurity skills.
 
-#### [Smart City Critical Infrastructure Research](./academic-reports/research-collaboration/)
+#### [Smart City Critical Infrastructure Research](./Academic-Reports/Research-Collaboration/)
 **Academic Research** | **Collaboration** | **Threat Analysis**
 - Comprehensive research on cybersecurity threats to smart city infrastructure
 - Collaborative project with [Kelly Lindsay](https://github.com/KellyLindsayCodes)
 - Analysis of real-world attacks including Industroyer and Atlanta ransomware incidents
 - Professional presentation and academic writing standards
 
-#### [VulnHub Penetration Testing Assessment](./academic-reports/penetration-testing/)
+#### [VulnHub Penetration Testing Assessment](./Academic-Reports/Penetration-Testing/)
 **Penetration Testing** | **Vulnerability Exploitation** | **Professional Reporting**
 - Complete compromise of VulnHub Basic Pentesting 1 virtual machine
 - Achieved root access through ProFTPD backdoor exploitation (CVE-2011-2523)
 - Industry-standard penetration testing methodology and documentation
 - Individual assessment demonstrating advanced offensive security skills
 
-#### [Red Team DoS Assessment](./academic-reports/red-team-assessment/)
+#### [Red Team DoS Assessment](./Academic-Reports/Red-Team-Assessment/)
 **Red Team Operations** | **Healthcare Security** | **Impact Analysis**
 - DoS vulnerability assessment simulating attacks against healthcare infrastructure
 - Demonstrated 90:1 impact amplification ratio (20-second attack, 30+ minute outage)
