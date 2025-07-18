@@ -4,7 +4,7 @@
 **Institution**: Holmesglen Institute  
 **Completion**: July 2025  
 **Delivery**: Online Program  
-**Duration**: 18 months (part-time study)
+**Duration**: 12 months (full-time study)
 
 ### Program Overview
 
