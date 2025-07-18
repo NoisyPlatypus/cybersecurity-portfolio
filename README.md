@@ -1,10 +1,10 @@
 # Cybersecurity Portfolio
-Welcome! I'm Rebecca, a cybersecurity student completing my Certificate IV in Cyber Security at Holmesglen Institute. This portfolio showcases my technical projects and growing expertise in cybersecurity.
+Welcome! I'm Rebecca, a cybersecurity professional with a recently completed Certificate IV in Cyber Security from Holmesglen Institute. This portfolio showcases my technical projects, academic research, and demonstrated expertise in cybersecurity.
 
 ## 🎯 About Me
 - 🔐 Passionate about cybersecurity with hands-on experience in penetration testing, network security, and Python programming
 - 🛠️ Background in customer service and administration, bringing strong communication and problem-solving skills to technical roles
-- 📚 Currently studying: Certificate IV in Cyber Security (Completion: June 2025)
+- 🎓 **Recently completed**: Certificate IV in Cyber Security (July 2025)
 - 💻 Technical interests: Network security, vulnerability assessment, security automation
 
 ## 🚀 Featured Projects
@@ -29,12 +29,38 @@ Welcome! I'm Rebecca, a cybersecurity student completing my Certificate IV in Cy
 - Created convincing phishing landing pages while maintaining ethical standards
 - Part of group assessment demonstrating understanding of social engineering tactics
 
+## 📚 Academic Reports
+
+### [Academic Coursework](./academic-reports/)
+Professional reports and assessments from Certificate IV studies demonstrating progression from foundational research to advanced practical cybersecurity skills.
+
+#### [Smart City Critical Infrastructure Research](./academic-reports/research-collaboration/)
+**Academic Research** | **Collaboration** | **Threat Analysis**
+- Comprehensive research on cybersecurity threats to smart city infrastructure
+- Collaborative project with [Kelly Lindsay](https://github.com/KellyLindsayCodes)
+- Analysis of real-world attacks including Industroyer and Atlanta ransomware incidents
+- Professional presentation and academic writing standards
+
+#### [VulnHub Penetration Testing Assessment](./academic-reports/penetration-testing/)
+**Penetration Testing** | **Vulnerability Exploitation** | **Professional Reporting**
+- Complete compromise of VulnHub Basic Pentesting 1 virtual machine
+- Achieved root access through ProFTPD backdoor exploitation (CVE-2011-2523)
+- Industry-standard penetration testing methodology and documentation
+- Individual assessment demonstrating advanced offensive security skills
+
+#### [Red Team DoS Assessment](./academic-reports/red-team-assessment/)
+**Red Team Operations** | **Healthcare Security** | **Impact Analysis**
+- DoS vulnerability assessment simulating attacks against healthcare infrastructure
+- Demonstrated 90:1 impact amplification ratio (20-second attack, 30+ minute outage)
+- Healthcare-specific risk analysis and regulatory compliance considerations
+- Part of collaborative red/blue/purple team exercise
+
 ## 🛠️ Technical Skills
 
 ### Security Tools & Platforms
 - **Operating Systems**: Kali Linux, Windows Server 2019, Windows 11
-- **Virtualization**: VMware Workstation Pro
-- **Security Tools**: Nmap, Burp Suite, OWASP ZAP, Nikto, Metasploit
+- **Virtualisation**: VMware Workstation Pro
+- **Security Tools**: Nmap, Burp Suite, OWASP ZAP, Nikto, Metasploit, hping3
 - **Network Analysis**: Wireshark
 
 ### Programming & Scripting
@@ -46,6 +72,13 @@ Welcome! I'm Rebecca, a cybersecurity student completing my Certificate IV in Cy
 - OWASP Top 10
 - NIST Cybersecurity Framework
 - PTES (Penetration Testing Execution Standard)
+- Academic research methodologies
+
+### Professional Competencies
+- **Penetration Testing**: Complete system compromise and vulnerability exploitation
+- **Security Research**: Academic-level threat analysis and industry trend evaluation
+- **Professional Reporting**: Industry-standard documentation and technical communication
+- **Collaborative Security**: Red team operations and cross-functional team coordination
 
 ## 📫 Contact Me
 - **LinkedIn**: [linkedin.com/in/rebeccadawn](https://www.linkedin.com/in/rebeccadawn/)
@@ -54,7 +87,8 @@ Welcome! I'm Rebecca, a cybersecurity student completing my Certificate IV in Cy
 
 ## 📈 Currently Learning
 - Cloud security (AWS)
-
+- Advanced penetration testing techniques
+- CompTIA CySA+
 
 ---
-*This portfolio is actively maintained and updated with new projects and skills.*
+*This portfolio is actively maintained and updated with new projects and skills. Academic reports demonstrate progression through Certificate IV coursework from September 2024 to June 2025.*
