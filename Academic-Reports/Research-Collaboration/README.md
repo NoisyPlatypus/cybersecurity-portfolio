@@ -48,14 +48,14 @@ Our research examined the cybersecurity vulnerabilities facing smart city critic
 
 ## Project Structure
 
-### Research Report (`smart-city-critical-infrastructure-research.pdf`)
+### Research Report (`Smart-City-Critical-Infrastructure-Research.pdf`)
 - Executive summary of smart city vulnerabilities
 - Detailed analysis of critical infrastructure components
 - Case studies with technical depth and business impact assessment
 - Comprehensive recommendations for defensive strategies
 - Professional formatting with citations and references
 
-### Presentation (`smart-city-infrastructure-presentation.pdf`)
+### Presentation (`Smart-City-Infrastructure-Presentation.pdf`)
 - Concise overview of key research findings
 - Visual representation of attack scenarios and impacts
 - Clear communication suitable for diverse audiences
